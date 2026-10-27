@@ -1,5 +1,12 @@
 # Clusterflick Branding
 
+> **[Clusterflick](https://clusterflick.com)** is a free, open-source site
+> listing every film showing in London, from 450+ venues in one search.
+>
+> This repository holds Clusterflick's brand guide, logos and icons. See the
+> [Clusterflick organisation](https://github.com/clusterflick) for how the
+> pieces fit together.
+
 ## Quick Reference
 
 See the [full brand guide](./brand-guide.md)
@@ -11,7 +18,7 @@ See the [full brand guide](./brand-guide.md)
 | Accent Color    | ![#fade05](https://placehold.co/15x15/fade05/fade05.png) `#fade05` (Buttery Yellow) |
 | Background      | ![#010013](https://placehold.co/15x15/010013/010013.png) `#010013` (Midnight Navy)  |
 | Border Radius   | 8-24px                                                                              |
-| Font Family     | Montserratm Inter                                                                   |
+| Font Family     | Montserrat, Inter                                                                   |
 | Grid System     | 8px base unit                                                                       |
 
 ## Socials
