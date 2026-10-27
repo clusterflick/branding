@@ -23,10 +23,16 @@ See the [full brand guide](./brand-guide.md)
 
 ## Socials
 
-- 🚥 [letterboxd.com/<strong>clusterflick</strong>](https://letterboxd.com/clusterflick/)
-- 🖼️ [instagram.com/<strong>clusterflick\_</strong>](https://www.instagram.com/clusterflick_/)
-- 🧍 [reddit.com/user/<strong>clusterflick\_</strong>](https://www.reddit.com/user/clusterflick_/)
-- 🧵 [threads.com/<strong>clusterflick\_</strong>](https://www.threads.com/clusterflick_/)
+- 🚥
+  [letterboxd.com/<strong>clusterflick</strong>](https://letterboxd.com/clusterflick/)
+- 🖼️
+  [instagram.com/<strong>clusterflick\_</strong>](https://www.instagram.com/clusterflick_/)
+- 🧍
+  [reddit.com/user/<strong>clusterflick\_</strong>](https://www.reddit.com/user/clusterflick_/)
+- 🧵
+  [threads.com/<strong>clusterflick\_</strong>](https://www.threads.com/clusterflick_/)
 - 🐦 [x.com/<strong>clusterflick</strong>](https://x.com/clusterflick/)
-- 🩵 [bsky.app/profile/<strong>clusterflick</strong>.bsky.social](https://bsky.app/profile/clusterflick.bsky.social)
-- 🧑‍💻 [github.com/<strong>clusterflick</strong>](https://github.com/clusterflick/)
+- 🩵
+  [bsky.app/profile/<strong>clusterflick</strong>.bsky.social](https://bsky.app/profile/clusterflick.bsky.social)
+- 🧑‍💻
+  [github.com/<strong>clusterflick</strong>](https://github.com/clusterflick/)
