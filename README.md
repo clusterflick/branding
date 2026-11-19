@@ -1,7 +1,7 @@
 # Clusterflick Branding
 
 > **[Clusterflick](https://clusterflick.com)** is a free, open-source site
-> listing every film showing in London, from 450+ venues in one search.
+> listing every film showing in London, from 500+ venues in one search.
 >
 > This repository holds Clusterflick's brand guide, logos and icons. See the
 > [Clusterflick organisation](https://github.com/clusterflick) for how the
